@@ -3,7 +3,7 @@
         <img alt="Imagem de inicio" title="#ImagemDoApp" src="assets/icon.png"  align="left" width="90" height="90"/>
     </h1>
 </div>
-    <h1 align="center">GAMEPLAY</h1>
+    <h1 >GAMEPLAY</h1>
 <p>Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.</p>
 <h4 align="center"> 
 	🚧  Status 🚀 Iniciando o projeto  🚧
