@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">
-        <img alt="Imagem de inicio" title="#ImagemDoApp" src="assets/icon.png"  align="left" width="100" height="100"/>
+        <img alt="Imagem de inicio" title="#ImagemDoApp" src="assets/icon.png"  align="left" width="90" height="90"/>
         <h1 align="center">GAMEPLAY</h1>
     </h1>
 </div>
