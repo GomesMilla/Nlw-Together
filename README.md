@@ -36,8 +36,18 @@ Este é um projeto totalmente grátis!
 - [React Native](https://reactnative.dev/)
 - [Async Storage](https://reactnative.directory/?search=storage)
 - [Vector Icons](https://www.vecteezy.com/free-vector/icons)
+- [React Native Svg e Svg Transform]
+- [Axios](https://axios-http.com/docs/intro)
+- [Gradient colors](https://uigradients.com/#SlightOceanView)
+- [OAuth2 Discord](https://discord.com/developers/docs/topics/oauth2)
+- [Expo Google Fonts](https://docs.expo.io/guides/using-custom-fonts/)
+- [React Navigation Stack](https://reactnavigation.org/docs/stack-navigator/)
+- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/docs/)
+- [Expo Authentication](https://docs.expo.io/guides/authentication/)
+- [React Native Share](https://www.npmjs.com/package/react-native-share)
+- [Deep Link](https://developer.android.com/guide/navigation/navigation-deep-link) 
 
-<h4>Iciando o Projeto</h4>
+<h4>Iniciando o Projeto</h4>
 
 ```
 expo start
