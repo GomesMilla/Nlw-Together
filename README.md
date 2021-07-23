@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">
-        <img alt="Imagem de inicio" title="#ImagemDoApp" src="assets/icon.png"  align="left" width="100" height="100"/> GamePlay
-        <!-- <h1 align="center">GAMEPLAY</h1> -->
+        <img alt="Imagem de inicio" title="#ImagemDoApp" src="assets/icon.png"  align="left" width="100" height="100"/>
+        <h1 align="center">GAMEPLAY</h1>
     </h1>
 </div>
 <p>Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.</p>
